@@ -1,5 +1,5 @@
 export const PATHS = {
-  login: "/",
+  login: "/ghost2",
   face: "/face",
   dashboard: "/dashboard",
   error: "/*",
